@@ -1,0 +1,56 @@
+.container-box {
+  display: flex;
+  border: rebeccapurple 1px solid;
+  padding: 16px;
+}
+
+.container-one {
+  width: 600px;
+  height: auto;
+  background-color: rgb(97, 97, 172);
+  color: white;
+  padding: 15px;
+}
+
+.container-tow {
+  width: 600px;
+  height: auto;
+  background-color: aqua;
+  padding: 15px;
+}
+
+.container-three {
+  width: 600px;
+  height: auto;
+  background-color: aquamarine;
+  padding: 15px;
+}
+
+.title-flex {
+  text-align: center;
+}
+/**Segundo contenedor***** */
+
+.container-box-flex {
+  display: flex;
+  margin-top: 26px;
+  padding: 15px;
+}
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
+  background-color: rgb(224, 121, 121);
+  width: 180px;
+  margin-left: 20px;
+  padding: 15px;
+}
